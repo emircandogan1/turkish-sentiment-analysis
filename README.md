@@ -1,5 +1,5 @@
 # turkish-sentiment-analysis
-Sentences, texts, and documents containing written content can be analyzed to predict future outcomes based on three different emotional states (positive, negative, neutral).
+This project involves analyzing tweets and categorizing them into three different sentiment categories: positive, negative, and neutral. Machine learning models are employed to classify the sentiment of the tweets.
 
 ![neutral](https://github.com/emircandogan1/sentiment-analysis/assets/69003695/4c6c891e-34b5-4258-b502-2f8744254bb8)
 

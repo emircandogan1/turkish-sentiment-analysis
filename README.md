@@ -1,7 +1,8 @@
 # turkish-sentiment-analysis
 This project involves analyzing Turkish tweets and categorizing them into three different sentiment categories: positive, negative, and neutral. Machine learning models are utilized to classify the sentiment of the tweets.
 
-![neutral](https://github.com/emircandogan1/sentiment-analysis/assets/69003695/4c6c891e-34b5-4258-b502-2f8744254bb8)
+![neutral](https://github.com/emircandogan1/turkish-sentiment-analysis/assets/69003695/d3c637c0-93c5-407a-b4a8-e430df89376e)
+
 
 ## files
 * normalization.py is the Python script intended for preprocessing data, specifically aimed at normalization. Part of the NLP pipeline utilizes the 'Zemberek' (https://github.com/ahmetaa/zemberek-nlp) library and its adjunct 'Zeyrek' for certain stages, while the remaining text cleaning processes, such as removing punctuations, stopwords, badwords, etc., are handled manually. 

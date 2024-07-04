@@ -15,4 +15,4 @@ This project involves analyzing Turkish tweets and categorizing them into three 
 * model.py requires dataset (normalized data), stopwords.
 
 ## License 
-MIT
+GNU
